@@ -42,15 +42,15 @@ python3 route_finder.py input.txt output.txt
 - `output.txt` will contain the cost and the path or a no-route message.
 
 ## Example Input
-1 2 3
-1 1 0 1
-1 1 1 0
+1 2 3\n
+1 1 0 1\n
+1 1 1 0\n
 0 1 1 1
 
 ## Example Output
-Cost of the route: 7
-X X 0 1
-1 X X 0
+Cost of the route: 7\n
+X X 0 1\n
+1 X X 0\n
 0 1 X X
 
 ## Final Note: 
