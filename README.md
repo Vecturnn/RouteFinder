@@ -24,16 +24,9 @@ Cost of the route: <COST_OF_THE_ROUTE>
 Followed by a bird’s-eye view of the field with the route marked by `X`.
 
 ## Project Rules and Requirements
-- The solution must use recursion appropriately.
 - When searching for routes on the left side of the field, the uppermost cell should be tried first, then lower ones.
 - When making a move, try neighbors in this order: right, up, down, left.
 - The shortest route must be found and output. If multiple shortest routes exist, the first according to the above rules should be displayed.
-- No global variables are allowed.
-- The main function should serve only as a driver and not contain main logic.
-- The code must be clean, readable, and properly commented (following PEP-8 and PEP-257 guidelines).
-- The program must run on Python 3.9.18 at the department’s developer server (dev.cs.hacettepe.edu.tr).
-- Output format must exactly match the specifications.
-- Discussions on high-level design are allowed but sharing code or solutions is prohibited.
 
 ## How to Run
 python3 route_finder.py input.txt output.txt
