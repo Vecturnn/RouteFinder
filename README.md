@@ -52,6 +52,3 @@ Cost of the route: 7\n
 X X 0 1\n
 1 X X 0\n
 0 1 X X
-
-## Final Note: 
-This project was a mandatory assignment as part of the BBM103: Introduction to Programming Laboratory I course at Hacettepe University. It was designed to provide practical experience in problem-solving and programming with recursion in Python.
